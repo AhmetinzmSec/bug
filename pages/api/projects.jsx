@@ -9,6 +9,13 @@ export default async (req, res) => {
     },
     {
       id: 2,
+      image: "https://cdn.discordapp.com/attachments/938001122109558824/1035911961508073543/Baslksz.png",
+      name: "Thunar Node Editor",
+      description: "Thunar'ın geliştirildiği kendimize ait bir Node Motoru...",
+      link: "#",
+    },
+    {
+      id: 2,
       image: "https://cdn.discordapp.com/attachments/838751131684569129/1031666756940476497/BUG_An_icy_wolf_right_in_front_of_the_icy_moon_that_turns_night_07e9012e-708f-44d3-b368-aaaeb559d293.png",
       name: "Thunar Client",
       description: "Thunar'ı Discord üzerinden değil masaüstü programınız ile ayarlayın... Çok yakında!",
