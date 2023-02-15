@@ -26,10 +26,10 @@ export default function Home() {
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-                Selamlar. Ben BUG. Gerçek adımla Ahmet. Yaklaşık 3 yıldır profesyonel yazılım işleriyle uğraşıyorum. Asıl alanım nesne tabanlı yazılım dilleri olsa da JavaScript dili ile bir bot geliştirmekteyim. Java, C++ ve Go gibi dillere yönelik projelerim mevcut olsa da en aktif olarak Thunar isimli botumu geliştirmekteyim                </p>
+                Selamlar. Ben Hypnotist. Yaklaşık 3 yıldır profesyonel yazılım işleriyle uğraşıyorum. Asıl alanım nesne tabanlı yazılım dilleri olsa da JavaScript dili ile bir bot geliştirmekteyim. Java, C++ ve Go gibi dillere yönelik projelerim mevcut olsa da en aktif olarak Thunar isimli botumu geliştirmekteyim                </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
-                <img alt="BUG" src={`https://cdn.discordapp.com/attachments/836225187132473364/1031910567960662106/IMG_20220213_222059_987.jpg`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
+                <img alt="Hypnotist" src={`https://cdn.discordapp.com/attachments/836225187132473364/1031910567960662106/IMG_20220213_222059_987.jpg`} width="160" height="160" className={`bg-neutral-700 w-[160px] h-[160px] rounded-full`} />
                 <div className={`bg-[#040404] rounded-full px-[4px] py-[1px] flex items-center absolute bottom-0 right-4`}>
                   <Tippy content="Çevrimiçi" animation="shift-away" arrow={false}>
                     <i className={`fad fa-circle text-2xl text-online`} />
