@@ -23,7 +23,7 @@ export default function Home() {
                 <a target="_blank" rel="norefferer" href="https://discord.com/users/801006452416184330">
                     <div className="mt-2 flex justify-between bg-zinc-500/5 hover:bg-zinc-500/10 transition-all duration-200 px-4 py-2 rounded-lg items-center">
                         <i className="fab fa-discord fa-2x" />
-                        <p className="font-semibold text-xl">BUG#4144</p>
+                        <p className="font-semibold text-xl">Hypnotist#4144</p>
                     </div>
                 </a>
                 <a href="mailto:thunatfederation@proton.me">

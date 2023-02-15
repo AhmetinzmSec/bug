@@ -37,8 +37,8 @@ function MyApp({ Component, pageProps }) {
     });
   return (<>
     <Head>
-        <title>BUG</title>
-        <link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/836225187132473364/1032044710493159434/bug-logo.png" type="image/x-icon" ></link>
+        <title>Hypnotist</title>
+        <link rel="shortcut icon" href="https://cdn.discordapp.com/attachments/938001122109558824/1075552384924782664/hypnotist.png" type="image/x-icon" ></link>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <link href="https://pro.fontawesome.com/releases/v5.15.4/css/all.css" rel="stylesheet" />
 
